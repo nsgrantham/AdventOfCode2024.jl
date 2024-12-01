@@ -1,4 +1,4 @@
-module AdventOfCode20XX
+module AdventOfCode2024
 
 include("Day1.jl")
 
