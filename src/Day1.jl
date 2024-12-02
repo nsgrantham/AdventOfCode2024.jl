@@ -8,7 +8,9 @@ function solve(input=pkgdir(AdventOfCode2024, "data", "Day1.txt"))
     r = parse.(Int, last.(lines))
 
     p1 = sum(abs.(sort(l) .- sort(r)))
-    p2 = sum(x * count(==(x), r) for x in l)
+    
+    n = Dict(x => count(==(x), r) for x in unique(r))
+    p2 = sum(x * get(n, x, 0) for x in l)
 
     p1, p2
 end
