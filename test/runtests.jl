@@ -31,3 +31,18 @@ end
     @test AdventOfCode2024.Day3.solve(IOBuffer(example1)) == (161, 161)
     @test AdventOfCode2024.Day3.solve(IOBuffer(example2)) == (161, 48)
 end
+
+@testset "Day 4" begin
+    example = """MMMSXXMASM
+MSAMXMSMSA
+AMXSXMAAMM
+MSAMASMSMX
+XMASAMXAMM
+XXAMMXXAMA
+SMSMSASXSS
+SAXAMASAAA
+MAMMMXMMMM
+MXMXAXMASX"""
+
+    @test AdventOfCode2024.Day4.solve(IOBuffer(example)) == (18, 9)
+end
