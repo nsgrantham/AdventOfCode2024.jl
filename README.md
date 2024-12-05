@@ -10,6 +10,7 @@ My solutions to [Advent of Code 2024](https://adventofcode.com/2024) using Julia
 | [Day 2: Red-Nosed Reports](https://adventofcode.com/2024/day/2)     | [Day2.txt](./data/Day2.txt)   | [Day2.jl](./src/Day2.jl)   |
 | [Day 3: Mull It Over](https://adventofcode.com/2024/day/3)          | [Day3.txt](./data/Day3.txt)   | [Day3.jl](./src/Day3.jl)   |
 | [Day 4: Ceres Search](https://adventofcode.com/2024/day/4)          | [Day4.txt](./data/Day4.txt)   | [Day4.jl](./src/Day4.jl)   |
+| [Day 5: Print Queue](https://adventofcode.com/2024/day/5)           | [Day5.txt](./data/Day5.txt)   | [Day5.jl](./src/Day5.jl)   |
 
 
 ## Install
