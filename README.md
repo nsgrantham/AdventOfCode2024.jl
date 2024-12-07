@@ -11,6 +11,7 @@ My solutions to [Advent of Code 2024](https://adventofcode.com/2024) using Julia
 | [Day 3: Mull It Over](https://adventofcode.com/2024/day/3)          | [Day3.txt](./data/Day3.txt)   | [Day3.jl](./src/Day3.jl)   |
 | [Day 4: Ceres Search](https://adventofcode.com/2024/day/4)          | [Day4.txt](./data/Day4.txt)   | [Day4.jl](./src/Day4.jl)   |
 | [Day 5: Print Queue](https://adventofcode.com/2024/day/5)           | [Day5.txt](./data/Day5.txt)   | [Day5.jl](./src/Day5.jl)   |
+| [Day 7: Bridge Repair](https://adventofcode.com/2024/day/7)         | [Day7.txt](./data/Day7.txt)   | [Day7.jl](./src/Day7.jl)   |
 
 
 ## Install
