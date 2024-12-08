@@ -3,7 +3,11 @@ uuid = "fd07333b-147f-4590-b49c-94872c8fce5d"
 authors = ["Neal Grantham <neal.grantham@gmail.com>"]
 version = "0.1.0"
 
+[deps]
+Combinatorics = "861a8166-3701-5b0c-9a16-15d98fcdc6aa"
+
 [compat]
+Combinatorics = "1.0.2"
 julia = "1.11"
 
 [extras]
